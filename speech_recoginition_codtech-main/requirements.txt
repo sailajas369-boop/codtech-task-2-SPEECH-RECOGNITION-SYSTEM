@@ -1,0 +1,4 @@
+SpeechRecogniton
+sounddevice
+soundfile
+pyaudio
