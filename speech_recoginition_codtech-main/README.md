@@ -78,6 +78,5 @@ python speech_to_text.py
 
 This project was created as part of the **CodTech Internship Program – Task 2** by:
 
-**Darsh Sharma**
-B.Tech CSE
-GitHub: [github.com/darsh2604](https://github.com/darsh2604)
+**Guntuboiyna Sailaja**
+🎓 B.Tech Computer Science(AI&ML)
